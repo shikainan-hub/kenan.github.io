@@ -7,13 +7,8 @@ redirect\_from:
 
 * /about/
 * /about.html
-  description: "Independent researcher in AI and time-series forecasting."
-  email: "[shi.kainan@university.edu](mailto:shi.kainan@university.edu)"
-  homepage: "[https://KainanShi.github.io](https://KainanShi.github.io)"
-  google\_scholar: "[https://scholar.google.com/citations?user=ABC123DEF](https://scholar.google.com/citations?user=ABC123DEF)"
-  dblp: "[https://dblp.org/pid/xx/ShiKainan.html](https://dblp.org/pid/xx/ShiKainan.html)"
-  orcid: "[https://orcid.org/0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)"
-  linkedin: "[https://www.linkedin.com/in/kainan-shi](https://www.linkedin.com/in/kainan-shi)"
+
+
 
 ---
 
