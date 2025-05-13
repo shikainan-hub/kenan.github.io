@@ -4,7 +4,6 @@ permalink: /
 title: "Shi Kainan"
 author\_profile: true
 redirect\_from:
-
 * /about/
 
 
