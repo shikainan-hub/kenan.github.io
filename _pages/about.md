@@ -6,7 +6,7 @@ author\_profile: true
 redirect\_from:
 
 * /about/
-* /about.html
+
 
 
 
